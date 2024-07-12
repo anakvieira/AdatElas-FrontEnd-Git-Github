@@ -1,0 +1,2 @@
+Excelente aula sobre branchs, que eram uma grande dúvida pra mim. Ótima didática!
+Executando o commit via VSCode pela primeira vez.
